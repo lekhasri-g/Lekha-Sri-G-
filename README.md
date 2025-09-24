@@ -11,7 +11,7 @@ Contents:
 - evidence/attachment_hashes.txt (simulated)
 - evidence/screenshots/ (simulated tool screenshots)
 
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Lekha Sri G 
+Date: 2025-09-24
 
 Instructions: You can upload this folder to your GitHub repository as-is for the assignment. The report is polished and ready to submit. The evidence files are realistic-looking simulated artifacts intended to accompany the report.
